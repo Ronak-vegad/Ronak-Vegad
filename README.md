@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI+Applications+That+Solve+Real+Problems;Creator+of+AskBVM+RAG+Chatbot;Open+Source+Contributor;Learning+Cloud+Engineering+and+DevOps;200%2B+LeetCode+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI+Applications+That+Solve+Real+Problems;Creator+of+AskBVM+RAG+Chatbot;Open+Source+Contributor;Learning+Cloud+Engineering+and+DevOps/>
 </p>
 
 <p align="center">
