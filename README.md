@@ -44,10 +44,11 @@ A selection of projects I've worked on:
 | [opencodeiiita](https://github.com/Ronak-vegad/opencodeiiita) | Open-source contribution to IIIT allahabad 1 month long project|
 
 ### Personalized Prompts 
-
+| Idea | About |
+|:--|:--|
 | **REA** | Claude , Deepseek , Kimi|
-|*Ai Jailbreak prompts* | ------------|
-| **Personalized Chabots**| [Prompts](https://github.com/Ronak-vegad/Prompts)|
+| **Ai Jailbreak prompts** | ------------|
+| **Personalized Chabots** | [Prompts](https://github.com/Ronak-vegad/Prompts)|
 
 
 
